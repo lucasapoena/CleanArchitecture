@@ -52,6 +52,11 @@
             {
                 Code = "it-IT",
                 DisplayName = "Italian"
+            },
+            new LanguageCode
+            {
+                Code = "pt-BR",
+                DisplayName = "Portuguese"
             }
         };
     }
